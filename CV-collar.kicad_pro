@@ -665,6 +665,12 @@
           "label": "MPN",
           "name": "MPN",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -723,7 +729,7 @@
         "uuid": "6b5d0c88-9fb5-48be-a63e-867d29ba82d5"
       }
     ],
-    "used_designators": "J4,B1-2",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
